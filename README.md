@@ -5,9 +5,6 @@
 <a href="https://github.com/yhan219/navicat_reset_mac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=navicat_reset_mac" />
 </a>
-<a href="https://github.com/yhan219/hamibot-yunlingxianfeng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=hamibot-yunlingxianfeng" />
-</a>
 <a href="https://github.com/yhan219/utools-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=utools-plugin" />
 </a>
