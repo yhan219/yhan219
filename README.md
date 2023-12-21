@@ -10,6 +10,9 @@
 <a href="https://github.com/yhan219/utools-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=utools-plugin" />
 </a>
+<a href="https://github.com/yhan219/MyIdeaCrackPlugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=MyIdeaCrackPlugin" />
+</a>
 <a href="https://github.com/yhan219/webp-convert-service">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=webp-convert-service" />
 </a>
