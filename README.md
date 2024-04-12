@@ -4,6 +4,9 @@
 <a href="https://github.com/yhan219/ruoyi-vue-flex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=ruoyi-vue-flex" />
 </a>
+<a href="https://github.com/yhan219/ruoyi-cloud-flex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=ruoyi-cloud-flex" />
+</a>
 <a href="https://github.com/yhan219/navicat_reset_mac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=navicat_reset_mac" />
 </a>
