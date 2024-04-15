@@ -22,6 +22,6 @@
 <a href="https://github.com/yhan219/seaweedfs-webp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=seaweedfs-webp" />
 </a>
-<a href="[https://github.com/yhan219/alfred_show_hosts](https://github.com/yhan219/alfred_show_hosts)">
+<a href="[https://github.com/yhan219/alfred_show_hosts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=alfred_show_hosts" />
 </a>
