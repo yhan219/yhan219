@@ -25,3 +25,12 @@
 <a href="https://github.com/yhan219/alfred_show_hosts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=alfred_show_hosts" />
 </a>
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yhan219&theme=minimal" />
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yhan219" />
+</div>
