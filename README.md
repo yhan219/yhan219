@@ -2,10 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhan219&layout=compact)](https://github.com/yhan219)
 
 <a href="https://github.com/yhan219/ruoyi-vue-flex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=ruoyi-vue-flex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=RuoYi-Vue-Flex" />
 </a>
 <a href="https://github.com/yhan219/ruoyi-cloud-flex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=ruoyi-cloud-flex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=RuoYi-Cloud-Flex" />
 </a>
 <a href="https://github.com/yhan219/navicat_reset_mac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhan219&repo=navicat_reset_mac" />
